@@ -29,3 +29,10 @@ ul {
   li a:hover {
     color: #ed831b;
   }
+
+  .welcome {
+      color: white;
+      margin-left: 30%;
+      margin-right: auto;
+      margin-top: 10%;
+  }
