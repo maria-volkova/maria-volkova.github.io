@@ -19,12 +19,12 @@ ul {
   
   li a {
     display: block;
-    color: white;
+    color: #ed831b;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
   
   li a:hover {
-    color: #ed831b;
+    color: white;
   }
