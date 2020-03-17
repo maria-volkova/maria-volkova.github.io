@@ -11,11 +11,10 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    text-align: end;
   }
   
   li {
-    float: left;
+    float: right;
   }
   
   li a {
