@@ -36,3 +36,76 @@ ul {
       margin-right: auto;
       margin-top: 10%;
   }
+
+  .circles{
+    margin-left: 20%;
+    margin-top: 55px;
+  }
+
+  .dot {
+    height: 170px;
+    width: 170px;
+    margin-left: 50px ;
+    padding-top: 25px;
+    background-color: #fc8f45;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+
+  .me i{
+    margin-left: 50px;
+    margin-top: 50px;
+    color: white;
+  }
+
+  .me a{
+    margin-left: 60px;
+    color: white;
+    text-decoration: none;
+    font-style: italic;
+  }
+
+  .books i{
+    margin-left: 48px;
+    margin-top: 50px;
+    color: white;
+  }
+
+
+  .books a{
+    margin-left: 62px;
+    color:white;
+    text-decoration: none;
+    font-style: italic;
+  }
+
+  .photo i{
+    margin-left: 46px;
+    margin-top: 48px;
+    color: white;
+  }
+  .photo a{
+    margin-left: 62px;
+    color: white;
+    text-decoration: none;
+    font-style: italic;
+  }
+
+  .travel i{
+    margin-left: 46px;
+    margin-top: 48px;
+    color: white;
+  }
+
+  .travel a{
+    margin-left: 35px;
+    color: white;
+    text-decoration: none;
+    font-style: italic;
+  }
+
+  .dot a:active{
+    color: white;
+  }
+
