@@ -32,14 +32,14 @@ ul {
 
   .welcome {
       color: white;
-      margin-left: 30%;
-      margin-right: auto;
+      text-align: center;
       margin-top: 10%;
   }
 
   .circles{
-    margin-left: 20%;
     margin-top: 55px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .dot {
@@ -105,7 +105,7 @@ ul {
     font-style: italic;
   }
 
-  .dot a:active{
+  .dot a:hover{
     color: white;
   }
 
